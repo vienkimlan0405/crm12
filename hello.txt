@@ -1,0 +1,7 @@
+Hello
+
+Cú pháp đẩy:
+Bước 1: git status
+Bước 2: git add
+Bước 3: git commit (xác nhận)
+Bước 4: git push
