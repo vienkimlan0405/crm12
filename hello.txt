@@ -7,3 +7,4 @@ Bước 3: git commit (xác nhận)
 Bước 4: git push
 
 Máy B làm chức năng gửi SMS.
+Máy A làm tính năng gửi mail
